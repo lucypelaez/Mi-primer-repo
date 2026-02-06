@@ -1,5 +1,5 @@
 # 🚀 Mi Primer Repositorio
-**Nombre:** [Lucia]l  
+**Nombre:** Lucia
 **Bootcamp:** Data Analyst  
 **Fecha:** Febrero 2026
 ## 📋 Sobre este proyecto
