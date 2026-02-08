@@ -30,16 +30,20 @@ He aprendido a trabajar con los comandos básicos que nos permiten subir los cam
 
 Además de esto también he aprendido alguno de los formatos básicos de los archivos .md:
 
-* Títulos: 
+***Títulos***
+
 # Título 1 (H1) añadiendo # delante del texto
 ## Título 2 (H2) añadiendo ## delante del texto
 ### Título 3 (H3) añadiendo ### delante del texto
 
-* Negrita y Cursiva:
-Negrita: poniendo el ** texto **
-Cursiva: poniendo el * texto *
-Negrita y Cursiva: *** texto ***
+***Negrita y Cursiva***
 
-* Listas:
-Desordenadas: Utiliza -, * o + seguido de un espacio.
-Ordenadas: Utiliza números seguidos de un punto (ej. 1. ).
+* Negrita: poniendo el ** texto **
+* Cursiva: poniendo el * texto *
+* Negrita y Cursiva: *** texto ***
+
+***Listas***
+
+1. Desordenadas: Utiliza -, * o + seguido de un espacio.
+
+2. Ordenadas: Utiliza números seguidos de un punto (ej. 1. ).
