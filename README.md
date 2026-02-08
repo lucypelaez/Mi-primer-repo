@@ -36,9 +36,9 @@ Además de esto también he aprendido alguno de los formatos básicos de los arc
 ### Título 3 (H3) añadiendo ### delante del texto
 
 * Negrita y Cursiva:
-Negrita: poniendo el [**texto**]
-Cursiva: poniendo el [*texto*]
-Negrita y Cursiva: [***texto***].
+Negrita: poniendo el ** texto **
+Cursiva: poniendo el * texto *
+Negrita y Cursiva: *** texto ***
 
 * Listas:
 Desordenadas: Utiliza -, * o + seguido de un espacio.
